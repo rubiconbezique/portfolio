@@ -6,15 +6,22 @@ My proudest accomplishments from that time were a simple text editor that I wrot
 
 After high school, I initially went to college to study software engineering. Foolishly, however, I decided that was too *nerdy* and switched my major to math (Obviously, that's where the cool kids were at). That decision stings today because what I really wanted to study was artificial intelligence. Shortly after I graduated with my math degree, I did try building a neural network in Java. I saw a documentary about learning and the brain where I learned that "neurons that fire together, wire together". I built a neural network with weighted input vectors and a very cool 3D visualization. I did not, however, understand anything about how to set the weights for the connections or training so I just had a fancy 3D neural network that spit out nonsense. Then I became a math teacher.
 
-It wasn't until smartphones came out that I got back into software development. As soon as I learned that anyone could develop and publish apps, I started learning how to develop for Android. That is where my portfolio begins.
+It wasn't until smartphones came out that I got back into software development. As soon as I discovered that anyone could develop and publish apps, I started learning how to develop for Android. That is where my portfolio begins.
 
 ## Android
 ### GoPuppetYourself (2015) [https://github.com/rubiconbezique/GoPuppetYourself](https://github.com/rubiconbezique/GoPuppetYourself)
 The idea behind this app was for users to take a photo of something, then turn that photo into a little puppet that they could use to make silly videos. It was awesome! I learned how the basics of Android development and how to programmatically manipulate the pixels of an image to do things like remove the background.
 
-### Mixmatic LoopPad (2016) [https://github.com/rubiconbezique/MixmaticLoopPadPro](https://github.com/rubiconbezique/MixmaticLoopPadPro)
+### Mixmatic LoopPad (2016-17) [https://github.com/rubiconbezique/MixmaticLoopPadPro](https://github.com/rubiconbezique/MixmaticLoopPadPro)
 This was a DJ app inspired by the Ableton Launchpad. The idea was that users could assign samples to a grid of buttons and then use those buttons to mix the samples together to create music. This was my first professional level product. I partnered with a company to supply the samples which users could then purchase through the app. It had some really cool features. You could import an mp3 from your own library and then use the tools I built into the app to automatically detect beats and slice the song into samples that could be remixed. I learned a ton about working with audio and signal processing as well as creating custom android View components. Unfortunately, a major life event derailed this project and I never managed to see it to its full potential. By the time I was able to get back to it, the market was flooded with DJ apps. I did manage to get it up to over 10,000 installs, however.
 
 ### Arithmos (2016) [https://github.com/rubiconbezique/Arithmos](https://github.com/rubiconbezique/Arithmos)
 This was a math game based on word search style games. I noticed that my math students really struggled with the order of operations. So, I made this game to help them practice in a way that was more fun. You would have a list of target numbers to search for. Then, you had to select a sequence of numbers and choose the operations that would result in the one of the target numbers. I learned a lot about game design and working with the Google Play Games API. Ultimately, Android wasn't the right platform for this game. I did get a few thousand installs, but it wasn't practical for my own students. If I were to remake something like this again, I would build it as a website.
 
+## AI & Machine Learning
+
+### Metatrader 4 Trading Bots (2017) *No repo*
+These were algorithmic FOREX currency trading bots I wrote in MQL4 to trade currency pairs in Metatrader 4. I came upon this while teaching a financial math class. MQL4 is an interpretted superset of C++. Building these projects I learned about technical analysis of securities charts and became familiar with using a C++ style language such as working with pointers and managing memory.
+
+### Java Aritificial Neural Network Implementation (2020)
+The COVID lockdown was my first year teaching computer science as a CTE program. While researching for my new program, I came across a Python tutorial using numpy to implement a simple artificial neural network. 
