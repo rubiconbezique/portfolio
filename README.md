@@ -50,6 +50,16 @@ This was my second fullstack React/Vite project and third AI assisted project. T
 After 5+ years of web development and my newfound love of AI assisted web development, I thought it might be fun and profitable to start my own web development agency. The plan was to find local businesses and other organizations that are lacking a strong web presence, use AI to quickly develop a simple custom demo site, and then pitch the company on my services. The major learning I gained from this project was how to use GSAP to create awesome DOM animations. As of 7/27/26, I'm just waiting on my EIN from the IRS before I start pitching to some local businesses.
 
 ## CS Lessons and Projects
-There are a ton of curricula and resources available for teaching programming and CS. However, ever since I was a math teacher, I've found that nothing is just plug-and-play. I have to adapt everything to my specific classes and the vision I have for each year. These are some of the lessons and projects that I developed specifically for my classes.
+There are a lot of great resources online for teaching CS, but I often end up just making my own. 
 
+### [https://github.com/Pueblo-CS/css-display-example](https://github.com/Pueblo-CS/css-display-example)
+### [https://github.com/Pueblo-CS/css-transitions-example](https://github.com/Pueblo-CS/css-transitions-example)
+### [https://github.com/Pueblo-CS/cs2-dom-intro](https://github.com/Pueblo-CS/cs2-dom-intro)
+### [https://github.com/Pueblo-CS/cs2-creating-elements](https://github.com/Pueblo-CS/cs2-creating-elements)
+### [https://github.com/Pueblo-CS/dom-styles-example](https://github.com/Pueblo-CS/dom-styles-example)
+### [https://github.com/Pueblo-CS/cs2-dom-create-elements](https://github.com/Pueblo-CS/cs2-dom-create-elements)
+### [https://github.com/Pueblo-CS/cs2-dom-styles](https://github.com/Pueblo-CS/cs2-dom-styles)
+### [https://github.com/Pueblo-CS/cs2-objects](https://github.com/Pueblo-CS/cs2-objects)
+### [https://github.com/Pueblo-CS/cs2-memory-game](https://github.com/Pueblo-CS/cs2-memory-game)
+### [https://github.com/Pueblo-CS/cs2-quiz-game](https://github.com/Pueblo-CS/cs2-quiz-game)
 
